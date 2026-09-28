@@ -1,0 +1,8 @@
+[
+  { "slug": "jakarta", "name": "Jakarta", "province": "DKI Jakarta", "timezone": "WIB" },
+  { "slug": "bandung", "name": "Bandung", "province": "Jawa Barat", "timezone": "WIB" },
+  { "slug": "surabaya", "name": "Surabaya", "province": "Jawa Timur", "timezone": "WIB" },
+  { "slug": "makassar", "name": "Makassar", "province": "Sulawesi Selatan", "timezone": "WITA" },
+  { "slug": "denpasar", "name": "Denpasar", "province": "Bali", "timezone": "WITA" },
+  { "slug": "jayapura", "name": "Jayapura", "province": "Papua", "timezone": "WIT" }
+]

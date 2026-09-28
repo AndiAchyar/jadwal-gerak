@@ -1,0 +1,9 @@
+[
+  { "slug": "lari", "name": "Lari" },
+  { "slug": "trail-run", "name": "Trail Run" },
+  { "slug": "sepeda", "name": "Sepeda" },
+  { "slug": "renang", "name": "Renang" },
+  { "slug": "triathlon", "name": "Triathlon" },
+  { "slug": "futsal", "name": "Futsal" },
+  { "slug": "bulu-tangkis", "name": "Bulu Tangkis" }
+]

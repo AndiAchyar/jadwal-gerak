@@ -1,0 +1,899 @@
+[
+  {
+    "slug": "jakarta-half-marathon-2026",
+    "title": "Jakarta Half Marathon 2026",
+    "organizer": "Nusantara Run Series (fiktif)",
+    "sport": "lari",
+    "city": "jakarta",
+    "venue": "Gelora Bung Karno",
+    "startDateTime": "2026-11-15T05:30:00+07:00",
+    "registrationOpen": "2026-08-01T00:00:00+07:00",
+    "registrationDeadline": "2026-11-10T23:59:00+07:00",
+    "categories": [
+      {
+        "name": "5K",
+        "distanceKm": 5,
+        "fees": [
+          {
+            "label": "Early Bird",
+            "price": 150000,
+            "until": "2026-10-15T23:59:00+07:00"
+          },
+          {
+            "label": "Normal",
+            "price": 200000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "10K",
+        "distanceKm": 10,
+        "fees": [
+          {
+            "label": "Early Bird",
+            "price": 200000,
+            "until": "2026-10-15T23:59:00+07:00"
+          },
+          {
+            "label": "Normal",
+            "price": 250000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "Half Marathon",
+        "distanceKm": 21,
+        "fees": [
+          {
+            "label": "Early Bird",
+            "price": 300000,
+            "until": "2026-10-15T23:59:00+07:00"
+          },
+          {
+            "label": "Normal",
+            "price": 375000
+          }
+        ],
+        "quotaStatus": "hampir-penuh"
+      }
+    ],
+    "racePack": {
+      "date": "2026-11-13T10:00:00+07:00",
+      "location": "Mal Fiktif Senayan, Jakarta"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Jersey",
+      "BIB",
+      "Refreshment",
+      "Asuransi"
+    ],
+    "description": "Jakarta Half Marathon 2026 adalah lomba lari tahunan yang melintasi rute ikonik ibu kota, cocok untuk pelari pemula hingga elite.",
+    "rules": [
+      "Peserta wajib memakai BIB yang terlihat jelas selama perlombaan",
+      "Cut off time 3 jam 30 menit sejak flag off",
+      "Tidak diperkenankan menggunakan pacer berbayar"
+    ],
+    "registrationUrl": "https://example.com/daftar/jakarta-half-marathon-2026",
+    "instagramUrl": "https://instagram.com/jakartahalfmarathon.fiktif",
+    "poster": "/images/events/jakarta-half-marathon-2026.jpeg",
+    "featured": true,
+    "tags": [
+      "marathon",
+      "half marathon",
+      "jakarta",
+      "lari jalan raya"
+    ]
+  },
+  {
+    "slug": "bandung-trail-run-adventure",
+    "title": "Bandung Trail Run Adventure",
+    "organizer": "Komunitas Lintas Rimba (fiktif)",
+    "sport": "trail-run",
+    "city": "bandung",
+    "venue": "Kawasan Wisata Gunung Puntang",
+    "startDateTime": "2026-10-03T06:00:00+07:00",
+    "registrationOpen": "2026-07-01T00:00:00+07:00",
+    "registrationDeadline": "2026-09-30T23:59:00+07:00",
+    "categories": [
+      {
+        "name": "10K",
+        "distanceKm": 10,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 250000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "25K",
+        "distanceKm": 25,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 350000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2026-10-02T09:00:00+07:00",
+      "location": "Basecamp Gunung Puntang, Bandung"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Jersey",
+      "BIB",
+      "Refreshment",
+      "Asuransi"
+    ],
+    "description": "Jelajahi jalur hutan pinus dan perkebunan kopi di lereng Gunung Puntang dalam lomba trail run dengan pemandangan alam yang memanjakan mata.",
+    "rules": [
+      "Wajib membawa mandatory gear (jas hujan, tumbler, peluit)",
+      "Cut off time 4 jam untuk kategori 25K",
+      "Sampah wajib dibawa kembali sampai ke pos terdekat"
+    ],
+    "registrationUrl": "https://example.com/daftar/bandung-trail-run-adventure",
+    "instagramUrl": "https://instagram.com/bandungtrailrun.fiktif",
+    "poster": "/images/events/bandung-trail-run-adventure.jpg",
+    "featured": false,
+    "tags": [
+      "trail run",
+      "bandung",
+      "gunung",
+      "off-road"
+    ]
+  },
+  {
+    "slug": "tour-de-makassar-gowes",
+    "title": "Tour de Makassar Gowes",
+    "organizer": "Makassar Cycling Community (fiktif)",
+    "sport": "sepeda",
+    "city": "makassar",
+    "venue": "Pantai Losari",
+    "startDateTime": "2026-09-24T06:00:00+08:00",
+    "endDateTime": "2026-09-28T18:00:00+08:00",
+    "registrationOpen": "2026-06-01T00:00:00+08:00",
+    "registrationDeadline": "2026-09-20T23:59:00+08:00",
+    "categories": [
+      {
+        "name": "Fun Ride 40K",
+        "distanceKm": 40,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 100000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "Road Race 120K",
+        "distanceKm": 120,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 175000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2026-09-23T09:00:00+08:00",
+      "location": "Anjungan Pantai Losari, Makassar"
+    },
+    "facilities": [
+      "Jersey",
+      "BIB",
+      "Refreshment",
+      "Asuransi",
+      "Sagu Kayang finisher"
+    ],
+    "description": "Gowes lintas kota selama 5 hari menyusuri pesisir Makassar hingga kaki pegunungan Sulawesi Selatan, diikuti ratusan goweser dari seluruh Indonesia.",
+    "rules": [
+      "Wajib memakai helm standar SNI selama etape berlangsung",
+      "Peserta wajib mengikuti rombongan sapu (sweeper) di setiap etape",
+      "Sepeda wajib dalam kondisi laik jalan dan lolos pemeriksaan panitia"
+    ],
+    "registrationUrl": "https://example.com/daftar/tour-de-makassar-gowes",
+    "instagramUrl": "https://instagram.com/tourdemakassar.fiktif",
+    "poster": "/images/events/tour-de-makassar-gowes.jpg",
+    "featured": true,
+    "tags": [
+      "gowes",
+      "sepeda",
+      "makassar",
+      "multi-etape"
+    ]
+  },
+  {
+    "slug": "surabaya-open-water-swim",
+    "title": "Surabaya Open Water Swim",
+    "organizer": "Surabaya Aquatic Club (fiktif)",
+    "sport": "renang",
+    "city": "surabaya",
+    "venue": "Pantai Kenjeran",
+    "startDateTime": "2026-12-06T06:00:00+07:00",
+    "registrationOpen": "2026-10-10T00:00:00+07:00",
+    "registrationDeadline": "2026-11-30T23:59:00+07:00",
+    "categories": [
+      {
+        "name": "1.5K",
+        "distanceKm": 1.5,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 175000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "3K",
+        "distanceKm": 3,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 225000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2026-12-05T10:00:00+07:00",
+      "location": "Taman Hiburan Pantai Kenjeran, Surabaya"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Cap renang",
+      "BIB pelampung",
+      "Refreshment",
+      "Asuransi"
+    ],
+    "description": "Kompetisi renang perairan terbuka di Pantai Kenjeran, dilengkapi pengawasan tim penyelamat profesional di sepanjang lintasan.",
+    "rules": [
+      "Wajib menggunakan cap renang resmi dari panitia",
+      "Peserta wajib mengikuti sesi safety briefing sebelum start",
+      "Penggunaan wetsuit diperbolehkan sesuai suhu air saat perlombaan"
+    ],
+    "registrationUrl": "https://example.com/daftar/surabaya-open-water-swim",
+    "instagramUrl": "https://instagram.com/surabayaows.fiktif",
+    "poster": "/images/events/surabaya-open-water-swim.jpg",
+    "featured": false,
+    "tags": [
+      "renang",
+      "open water",
+      "surabaya"
+    ]
+  },
+  {
+    "slug": "bali-triathlon-championship",
+    "title": "Bali Triathlon Championship",
+    "organizer": "Island Tri Series (fiktif)",
+    "sport": "triathlon",
+    "city": "denpasar",
+    "venue": "Pantai Sanur",
+    "startDateTime": "2026-11-22T05:00:00+08:00",
+    "registrationOpen": "2026-08-15T00:00:00+08:00",
+    "registrationDeadline": "2026-11-15T23:59:00+08:00",
+    "categories": [
+      {
+        "name": "Sprint Triathlon",
+        "fees": [
+          {
+            "label": "Early Bird",
+            "price": 450000,
+            "until": "2026-10-01T23:59:00+08:00"
+          },
+          {
+            "label": "Normal",
+            "price": 550000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "Olympic Triathlon",
+        "fees": [
+          {
+            "label": "Early Bird",
+            "price": 600000,
+            "until": "2026-10-01T23:59:00+08:00"
+          },
+          {
+            "label": "Normal",
+            "price": 750000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2026-11-20T09:00:00+08:00",
+      "location": "Grand Inna Sanur, Bali"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Jersey tri",
+      "BIB",
+      "Refreshment",
+      "Asuransi",
+      "Bike rack area"
+    ],
+    "description": "Rasakan sensasi triathlon berskala internasional dengan rute renang di Pantai Sanur, sepeda menyusuri jalan raya Bali, dan lari finis di kawasan wisata.",
+    "rules": [
+      "Wajib mengikuti technical meeting sehari sebelum lomba",
+      "Sepeda wajib melalui pengecekan teknis (bike check) di hari-1",
+      "Drafting pada segmen sepeda tidak diperbolehkan"
+    ],
+    "registrationUrl": "https://example.com/daftar/bali-triathlon-championship",
+    "instagramUrl": "https://instagram.com/balitriathlon.fiktif",
+    "poster": "/images/events/bali-triathlon-championship.jpg",
+    "featured": true,
+    "tags": [
+      "triathlon",
+      "bali",
+      "sanur",
+      "multisport"
+    ]
+  },
+  {
+    "slug": "jayapura-community-futsal-cup",
+    "title": "Jayapura Community Futsal Cup",
+    "organizer": "Persatuan Futsal Komunitas Papua (fiktif)",
+    "sport": "futsal",
+    "city": "jayapura",
+    "venue": "GOR Futsal Waena",
+    "startDateTime": "2026-10-18T08:00:00+09:00",
+    "registrationOpen": "2026-08-20T00:00:00+09:00",
+    "registrationDeadline": "2026-10-10T23:59:00+09:00",
+    "categories": [
+      {
+        "name": "Beregu Putra",
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 500000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "Beregu Putri",
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 500000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2026-10-17T13:00:00+09:00",
+      "location": "GOR Futsal Waena, Jayapura"
+    },
+    "facilities": [
+      "Jersey tim",
+      "Sertifikat",
+      "Refreshment",
+      "Asuransi",
+      "Trofi juara"
+    ],
+    "description": "Turnamen futsal komunitas antar klub se-Jayapura dengan sistem gugur, terbuka untuk kategori putra dan putri.",
+    "rules": [
+      "Setiap tim wajib membawa minimal 8 pemain terdaftar",
+      "Durasi pertandingan 2x15 menit babak penyisihan",
+      "Kartu merah otomatis skorsing satu pertandingan berikutnya"
+    ],
+    "registrationUrl": "https://example.com/daftar/jayapura-community-futsal-cup",
+    "instagramUrl": "https://instagram.com/jayapurafutsalcup.fiktif",
+    "poster": "/images/events/jayapura-community-futsal-cup.jpg",
+    "featured": false,
+    "tags": [
+      "futsal",
+      "jayapura",
+      "turnamen komunitas",
+      "beregu"
+    ]
+  },
+  {
+    "slug": "jakarta-badminton-open",
+    "title": "Jakarta Badminton Open",
+    "organizer": "Jakarta Shuttlecock Community (fiktif)",
+    "sport": "bulu-tangkis",
+    "city": "jakarta",
+    "venue": "GOR Bulutangkis Cipinang",
+    "startDateTime": "2026-10-25T08:00:00+07:00",
+    "registrationOpen": "2026-07-01T00:00:00+07:00",
+    "registrationDeadline": "2026-09-15T23:59:00+07:00",
+    "categories": [
+      {
+        "name": "Tunggal Putra",
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 150000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "Ganda Putra",
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 250000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2026-10-24T13:00:00+07:00",
+      "location": "GOR Bulutangkis Cipinang, Jakarta"
+    },
+    "facilities": [
+      "Jersey",
+      "Sertifikat",
+      "Refreshment",
+      "Asuransi",
+      "Trofi juara"
+    ],
+    "description": "Turnamen bulu tangkis komunitas terbuka untuk kategori tunggal dan ganda putra dengan sistem gugur dua babak.",
+    "rules": [
+      "Peserta wajib hadir 30 menit sebelum jadwal pertandingan",
+      "Menggunakan sistem best of three game",
+      "Shuttlecock disediakan panitia sesuai standar pertandingan"
+    ],
+    "registrationUrl": "https://example.com/daftar/jakarta-badminton-open",
+    "instagramUrl": "https://instagram.com/jakartabadmintonopen.fiktif",
+    "poster": "/images/events/jakarta-badminton-open.jpg",
+    "featured": false,
+    "tags": [
+      "bulu tangkis",
+      "jakarta",
+      "turnamen komunitas"
+    ]
+  },
+  {
+    "slug": "makassar-city-run-5k",
+    "title": "Makassar City Run 5K Fun Run",
+    "organizer": "Makassar Runners Club (fiktif)",
+    "sport": "lari",
+    "city": "makassar",
+    "venue": "Anjungan Pantai Losari",
+    "startDateTime": "2026-08-16T06:00:00+08:00",
+    "registrationOpen": "2026-06-01T00:00:00+08:00",
+    "registrationDeadline": "2026-08-10T23:59:00+08:00",
+    "categories": [
+      {
+        "name": "5K",
+        "distanceKm": 5,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 100000
+          }
+        ],
+        "quotaStatus": "penuh"
+      }
+    ],
+    "racePack": {
+      "date": "2026-08-15T10:00:00+08:00",
+      "location": "Anjungan Pantai Losari, Makassar"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Jersey",
+      "BIB",
+      "Refreshment"
+    ],
+    "description": "Fun run santai menyusuri kawasan Pantai Losari, cocok untuk pelari pemula dan keluarga.",
+    "rules": [
+      "Terbuka untuk semua usia",
+      "Cut off time 1 jam",
+      "Tidak diperkenankan membawa hewan peliharaan ke rute lari"
+    ],
+    "registrationUrl": "https://example.com/daftar/makassar-city-run-5k",
+    "instagramUrl": "https://instagram.com/makassarcityrun.fiktif",
+    "poster": "/images/events/makassar-city-run-5k.jpg",
+    "featured": false,
+    "tags": [
+      "fun run",
+      "5k",
+      "makassar"
+    ]
+  },
+  {
+    "slug": "bandung-ultra-trail-100",
+    "title": "Bandung Ultra Trail 100",
+    "organizer": "Komunitas Lintas Rimba (fiktif)",
+    "sport": "trail-run",
+    "city": "bandung",
+    "venue": "Kawasan Gunung Malabar",
+    "startDateTime": "2026-11-01T04:00:00+07:00",
+    "registrationOpen": "2026-07-01T00:00:00+07:00",
+    "registrationDeadline": "2026-10-25T23:59:00+07:00",
+    "categories": [
+      {
+        "name": "50K",
+        "distanceKm": 50,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 500000
+          }
+        ],
+        "quotaStatus": "penuh"
+      },
+      {
+        "name": "100K",
+        "distanceKm": 100,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 750000
+          }
+        ],
+        "quotaStatus": "penuh"
+      }
+    ],
+    "racePack": {
+      "date": "2026-10-31T09:00:00+07:00",
+      "location": "Basecamp Gunung Malabar, Bandung"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Jersey",
+      "BIB",
+      "Refreshment",
+      "Asuransi",
+      "Drop bag"
+    ],
+    "description": "Lomba ultra trail dengan elevasi ekstrem menyusuri punggungan Gunung Malabar, ditujukan untuk pelari trail berpengalaman.",
+    "rules": [
+      "Wajib membawa mandatory gear lengkap (headlamp, survival blanket, jas hujan)",
+      "Cut off time 20 jam untuk kategori 100K",
+      "Pemeriksaan gear dilakukan sebelum race pack diberikan"
+    ],
+    "registrationUrl": "https://example.com/daftar/bandung-ultra-trail-100",
+    "instagramUrl": "https://instagram.com/bandungultratrail.fiktif",
+    "poster": "/images/events/bandung-ultra-trail-100.jpeg",
+    "featured": true,
+    "tags": [
+      "ultra trail",
+      "trail run",
+      "bandung",
+      "gunung"
+    ]
+  },
+  {
+    "slug": "denpasar-swim-challenge",
+    "title": "Denpasar Swim Challenge",
+    "organizer": "Bali Aquatic Federation (fiktif)",
+    "sport": "renang",
+    "city": "denpasar",
+    "venue": "Pantai Sanur",
+    "startDateTime": "2026-10-11T06:00:00+08:00",
+    "registrationOpen": "2026-08-01T00:00:00+08:00",
+    "registrationDeadline": "2026-10-05T23:59:00+08:00",
+    "categories": [
+      {
+        "name": "1K",
+        "distanceKm": 1,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 150000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "2K",
+        "distanceKm": 2,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 200000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2026-10-10T10:00:00+08:00",
+      "location": "Grand Inna Sanur, Bali"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Cap renang",
+      "Refreshment",
+      "Asuransi"
+    ],
+    "description": "Kompetisi renang perairan terbuka di perairan tenang Pantai Sanur, cocok untuk perenang amatir maupun kompetitif.",
+    "rules": [
+      "Wajib mengikuti safety briefing sebelum start",
+      "Peserta di bawah 17 tahun wajib didampingi orang tua saat pendaftaran",
+      "Pengawalan perahu karet disediakan di sepanjang lintasan"
+    ],
+    "registrationUrl": "https://example.com/daftar/denpasar-swim-challenge",
+    "instagramUrl": "https://instagram.com/denpasarswimchallenge.fiktif",
+    "poster": "/images/events/denpasar-swim-challenge.jpg",
+    "featured": false,
+    "tags": [
+      "renang",
+      "open water",
+      "denpasar",
+      "bali"
+    ]
+  },
+  {
+    "slug": "surabaya-marathon",
+    "title": "Surabaya Marathon",
+    "organizer": "Nusantara Run Series (fiktif)",
+    "sport": "lari",
+    "city": "surabaya",
+    "venue": "Tugu Pahlawan",
+    "startDateTime": "2027-01-17T05:00:00+07:00",
+    "registrationOpen": "2026-09-01T00:00:00+07:00",
+    "registrationDeadline": "2027-01-10T23:59:00+07:00",
+    "categories": [
+      {
+        "name": "10K",
+        "distanceKm": 10,
+        "fees": [
+          {
+            "label": "Early Bird",
+            "price": 200000,
+            "until": "2026-11-01T23:59:00+07:00"
+          },
+          {
+            "label": "Normal",
+            "price": 275000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "21K",
+        "distanceKm": 21,
+        "fees": [
+          {
+            "label": "Early Bird",
+            "price": 300000,
+            "until": "2026-11-01T23:59:00+07:00"
+          },
+          {
+            "label": "Normal",
+            "price": 400000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "42K",
+        "distanceKm": 42,
+        "fees": [
+          {
+            "label": "Early Bird",
+            "price": 450000,
+            "until": "2026-11-01T23:59:00+07:00"
+          },
+          {
+            "label": "Normal",
+            "price": 600000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2027-01-15T10:00:00+07:00",
+      "location": "Grand City Mall, Surabaya"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Jersey",
+      "BIB",
+      "Refreshment",
+      "Asuransi",
+      "Pacer resmi"
+    ],
+    "description": "Surabaya Marathon menghadirkan rute bersejarah melewati Tugu Pahlawan dan ikon kota lainnya, dengan kategori mulai dari 10K hingga full marathon.",
+    "rules": [
+      "Cut off time 6 jam untuk kategori 42K",
+      "Wajib memindai BIB di setiap water station",
+      "Kendaraan pribadi tidak diperkenankan mengikuti pelari di rute"
+    ],
+    "registrationUrl": "https://example.com/daftar/surabaya-marathon",
+    "instagramUrl": "https://instagram.com/surabayamarathon.fiktif",
+    "poster": "/images/events/surabaya-marathon.jpg",
+    "featured": true,
+    "tags": [
+      "marathon",
+      "full marathon",
+      "surabaya",
+      "lari jalan raya"
+    ]
+  },
+  {
+    "slug": "jakarta-fun-bike-gowes-ceria",
+    "title": "Jakarta Fun Bike Gowes Ceria",
+    "organizer": "Komunitas Sepeda Jakarta (fiktif)",
+    "sport": "sepeda",
+    "city": "jakarta",
+    "venue": "Bundaran HI",
+    "startDateTime": "2026-07-19T06:00:00+07:00",
+    "registrationOpen": "2026-05-01T00:00:00+07:00",
+    "registrationDeadline": "2026-07-15T23:59:00+07:00",
+    "categories": [
+      {
+        "name": "Fun Ride 20K",
+        "distanceKm": 20,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 75000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2026-07-18T13:00:00+07:00",
+      "location": "Balai Kota Jakarta"
+    },
+    "facilities": [
+      "Jersey",
+      "Refreshment",
+      "Doorprize"
+    ],
+    "description": "Gowes santai keliling ikon kota Jakarta yang cocok untuk keluarga dan pesepeda pemula.",
+    "rules": [
+      "Wajib memakai helm selama rute berlangsung",
+      "Rute tertutup untuk kendaraan bermotor",
+      "Kecepatan maksimal 20 km/jam"
+    ],
+    "registrationUrl": "https://example.com/daftar/jakarta-fun-bike-gowes-ceria",
+    "instagramUrl": "https://instagram.com/gowesceria.fiktif",
+    "poster": "/images/events/jakarta-fun-bike-gowes-ceria.jpg",
+    "featured": false,
+    "tags": [
+      "gowes",
+      "sepeda",
+      "jakarta",
+      "fun ride"
+    ]
+  },
+  {
+    "slug": "makassar-half-marathon-trail",
+    "title": "Makassar Half Marathon Trail",
+    "organizer": "Makassar Runners Club (fiktif)",
+    "sport": "trail-run",
+    "city": "makassar",
+    "venue": "Kawasan Bantimurung",
+    "startDateTime": "2026-12-13T05:30:00+08:00",
+    "registrationOpen": "2026-10-15T00:00:00+08:00",
+    "registrationDeadline": "2026-12-05T23:59:00+08:00",
+    "categories": [
+      {
+        "name": "15K",
+        "distanceKm": 15,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 275000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      },
+      {
+        "name": "21K",
+        "distanceKm": 21,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 350000
+          }
+        ],
+        "quotaStatus": "tersedia"
+      }
+    ],
+    "racePack": {
+      "date": "2026-12-12T09:00:00+08:00",
+      "location": "Taman Wisata Bantimurung, Maros"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Jersey",
+      "BIB",
+      "Refreshment",
+      "Asuransi"
+    ],
+    "description": "Trail run menyusuri kawasan karst Bantimurung dengan pemandangan air terjun dan gua alami di sepanjang rute.",
+    "rules": [
+      "Wajib membawa mandatory gear (tumbler, jas hujan, peluit)",
+      "Cut off time 5 jam untuk kategori 21K",
+      "Dilarang membuang sampah di sepanjang jalur"
+    ],
+    "registrationUrl": "https://example.com/daftar/makassar-half-marathon-trail",
+    "instagramUrl": "https://instagram.com/makassartrail.fiktif",
+    "poster": "/images/events/makassar-half-marathon-trail.jpg",
+    "featured": false,
+    "tags": [
+      "trail run",
+      "makassar",
+      "bantimurung"
+    ]
+  },
+  {
+    "slug": "jayapura-renang-perairan-terbuka",
+    "title": "Jayapura Renang Perairan Terbuka",
+    "organizer": "Papua Aquatic Club (fiktif)",
+    "sport": "renang",
+    "city": "jayapura",
+    "venue": "Pantai Base G",
+    "startDateTime": "2026-11-08T06:00:00+09:00",
+    "registrationOpen": "2026-08-01T00:00:00+09:00",
+    "registrationDeadline": "2026-11-01T23:59:00+09:00",
+    "categories": [
+      {
+        "name": "1.5K",
+        "distanceKm": 1.5,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 175000
+          }
+        ],
+        "quotaStatus": "hampir-penuh"
+      },
+      {
+        "name": "3K",
+        "distanceKm": 3,
+        "fees": [
+          {
+            "label": "Normal",
+            "price": 225000
+          }
+        ],
+        "quotaStatus": "penuh"
+      }
+    ],
+    "racePack": {
+      "date": "2026-11-07T10:00:00+09:00",
+      "location": "Pantai Base G, Jayapura"
+    },
+    "facilities": [
+      "Medali finisher",
+      "Cap renang",
+      "Refreshment",
+      "Asuransi"
+    ],
+    "description": "Kompetisi renang perairan terbuka di Pantai Base G dengan air jernih dan ombak tenang, favorit komunitas renang Papua.",
+    "rules": [
+      "Wajib mengikuti safety briefing sebelum start",
+      "Penggunaan pelampung pinggang wajib bagi kategori 1.5K",
+      "Peserta wajib melapor ke panitia setelah finis"
+    ],
+    "registrationUrl": "https://example.com/daftar/jayapura-renang-perairan-terbuka",
+    "instagramUrl": "https://instagram.com/jayapuraows.fiktif",
+    "poster": "/images/events/jayapura-renang-perairan-terbuka.jpg",
+    "featured": false,
+    "tags": [
+      "renang",
+      "open water",
+      "jayapura",
+      "papua"
+    ]
+  }
+]
