@@ -68,14 +68,14 @@ export default async function EventDetailPage({ params }: { params: Promise<{ sl
     <Container className="py-10">
       <div className="grid gap-8 lg:grid-cols-3">
         <div className="flex flex-col gap-8 lg:col-span-2">
-          <div className="flex h-56 items-center justify-center overflow-hidden rounded-2xl border border-line bg-paper">
+          <div className="flex min-h-56 items-center justify-center overflow-hidden rounded-2xl border border-line bg-paper">
             {event.poster ? (
               <Image
                 src={event.poster}
                 alt={event.title}
-                width={800}
-                height={400}
-                className="h-full w-full object-cover"
+                width={1024}
+                height={1536}
+                className="h-auto max-h-[32rem] w-auto object-contain"
               />
             ) : (
               <div className="text-center">

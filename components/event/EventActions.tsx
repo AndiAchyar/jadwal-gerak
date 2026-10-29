@@ -6,6 +6,8 @@ import { getCityBySlug } from "@/lib/data";
 import { useIsClient } from "@/lib/useIsClient";
 import { LinkButton } from "@/components/ui/Button";
 
+const WA_NUMBER = "6282190447129";
+
 export default function EventActions({ event }: { event: SportEvent }) {
   const isClient = useIsClient();
   const aktif = isClient && isPendaftaranAktif(getStatus(event, new Date()));
@@ -13,10 +15,13 @@ export default function EventActions({ event }: { event: SportEvent }) {
   const mapsQuery = encodeURIComponent(`${event.venue}, ${city?.name ?? ""}`);
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${mapsQuery}`;
 
+  const waMessage = encodeURIComponent(`Halo, saya ingin mendaftar event ${event.title}.`);
+  const waUrl = `https://wa.me/${WA_NUMBER}?text=${waMessage}`;
+
   return (
     <div className="flex flex-col gap-3">
       <LinkButton
-        href={event.registrationUrl}
+        href={waUrl}
         target="_blank"
         rel="noopener noreferrer"
         variant="primary"
